@@ -8,7 +8,7 @@ import {
   OnDestroy,
 } from '@angular/core';
 
-import * as SignaturePadNative from 'signature_pad';
+import * as SignaturePadNative from '../../../../node_modules/signature_pad';
 
 export interface Point {
   x: number;
