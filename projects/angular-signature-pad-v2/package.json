@@ -1,6 +1,6 @@
 {
   "name": "angular-signature-pad-v2",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "angular-signature-pad-v2 Component wrapper for szimek / signature_pad",
   "homepage": "https://github.com/aditya-singh-07/angular2-signaturepad.git",
   "bugs": "https://github.com/aditya-singh-07/angular2-signaturepad/issues",
@@ -14,12 +14,12 @@
     "finger",
     "canvas"
   ],
-  "author": "Wulf Solter <wulf@wulf.co.nz> (http://wulf.co.nz) & Aditya Singh",
+  "author": "Wulf Solter <wulf@wulf.co.nz> (http://wulf.co.nz), Aditya Singh & Antoine Delahaye",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0",
-    "@angular/core": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0",
-    "signature_pad": "2.3.2"
+    "@angular/common": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0",
+    "@angular/core": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0",
+    "signature_pad": "5.0.2"
   },
   "dependencies": {
     "tslib": "^2.0.0"
